@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm <b>Trần Tấn Tài</b></h2>
-<h3 align="center">Mobile Developer (React Native)</h3>
+<h3 align="center">Mobile Developer </h3>
 
 ---
 
