@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me  
+### About Me  
 - I'm actively seeking job opportunities in **Mobile development**  
 - I enjoy **building real-world apps**, researching new technologies and improving UI/UX  
 - Focused on **React Native**, API integration, and deployment  
@@ -11,15 +11,15 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Mobile:**  
 `React Native` `Expo` `Android (Java)` `REST API`  
 
-**Frontend (support):**  
+**Frontend :**  
 `HTML` `CSS` `JavaScript` `TypeScript`  
 
-**Backend (basic):**  
+**Backend :**  
 `NodeJS (Express)` `RESTful API` `Firebase`  
 
 **Database:**  
@@ -33,7 +33,7 @@
 
 ---
 
-### 📌 Highlights
+###  Highlights
 - Experience with **UI/UX**, **CRUD**, **Authentication**, **Offline data**, **API integration**, **Deployment**
 - Able to work **independently** and **collaboratively**
 - Interested in new frameworks & scaling apps
@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Contact
-📧 Email: **tanta i07995572084@gmail.com**  
+📧 Email: **tantai07995572084@gmail.com**  
 📍 Location: **Vietnam**
 
 ---
